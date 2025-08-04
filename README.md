@@ -91,3 +91,15 @@ Use SQL-based data exploration to:
 - Dataset can be structured for machine learning classification based on demographics, symptoms, Fitzpatrick type, and biopsy status
 
 
+
+## Contact Me
+
+If you have questions about this project or would like to connect:
+
+-  [LinkedIn](https://www.linkedin.com/in/susandania/)
+-  Email: susan.dania@outlook.com
+-  [Portfolio Website](https://susandania.github.io)
+
+
+
+
