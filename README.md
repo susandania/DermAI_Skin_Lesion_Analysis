@@ -87,7 +87,7 @@ Use SQL-based data exploration to:
 ### Infrastructure Improvements
 - Boost dermatological access and water sanitation in under-resourced areas
 
-### 🤖 AI Diagnostic Potential
+### AI Diagnostic Potential
 - Dataset can be structured for machine learning classification based on demographics, symptoms, Fitzpatrick type, and biopsy status
 
 
